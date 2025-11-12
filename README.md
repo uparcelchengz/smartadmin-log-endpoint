@@ -24,21 +24,21 @@ yarn dev
 
 ## ✨ Features
 
-- 🔗 **Webhook Endpoint**: Receive POST/GET requests from any servicepnpm dev
+- 🔗 **Webhook Endpoint**: Receive POST/GET requests from any service
 
-- 📊 **Beautiful Dashboard**: View all webhook logs in real-time# or
+- 📊 **Beautiful Dashboard**: View all webhook logs in real-time
 
-- 💾 **MongoDB Storage**: All logs saved securely (free tier)bun dev
+- 💾 **MongoDB Storage**: All logs saved securely (free tier)
 
 - 🔄 **Auto-refresh**: Optional 5-second auto-refresh```
 
 - 🔍 **Detailed View**: See full headers, body, query params, IP, user agent
 
-- 🎨 **Dark Mode**: Beautiful dark/light mode supportOpen [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🎨 **Dark Mode**: Beautiful dark/light mode support
 
 - 🔐 **Security**: Optional webhook secret authentication
 
-- 🚀 **Free Hosting**: Deploy to Vercel free tierYou can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🚀 **Free Hosting**: Deploy to Vercel free tier
 
 - 📱 **Responsive**: Works on desktop, tablet, and mobile
 
@@ -50,29 +50,12 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 <img width="1485" height="841" alt="image" src="https://github.com/user-attachments/assets/a201cc71-5498-4704-878c-770431e79339" />
 <img width="1919" height="678" alt="image" src="https://github.com/user-attachments/assets/d0a8463e-1511-4747-9a66-7d993525c93c" />
 
-## Learn More
-
-Your dashboard will look like this:
-
-- Clean, modern interface with statsTo learn more about Next.js, take a look at the following resources:
-
-- Table view of all webhook logs
-
-- Click any log to see full details- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-
-- One-click webhook URL copying- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Quick Start
 
 
+### 1️⃣ Clone & Install
 
-## 🚀 Quick StartYou can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-
-
-### 1️⃣ Clone & Install## Deploy on Vercel
-
-
-
-```bashThe easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
 
 git clone https://github.com/uparcelchengz/smartadmin-log-endpoint.git
 
@@ -101,6 +84,13 @@ npm run dev
 
 Visit **http://localhost:3000** to see your dashboard! 🎉
 
+Your dashboard will look like this:
+
+- Clean, modern interface with stats
+- Table view of all webhook logs
+- Click any log to see full details
+- One-click webhook URL copying
+
 ### 4️⃣ Test It
 
 Run the test script:
@@ -118,6 +108,8 @@ curl -X POST http://localhost:3000/api/webhook \
 ```
 
 ### 5️⃣ Deploy (Optional)
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Deploy to Vercel for free:
 
@@ -307,6 +299,15 @@ Need help? Check these resources:
 3. **Issues** - Open an issue on GitHub
 4. **MongoDB Docs** - [MongoDB Atlas Documentation](https://docs.atlas.mongodb.com/)
 5. **Vercel Docs** - [Vercel Documentation](https://vercel.com/docs)
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js)
+- your feedback and contributions are welcome!
 
 ## ⭐ Show Your Support
 
