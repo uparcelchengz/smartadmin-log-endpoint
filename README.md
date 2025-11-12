@@ -1,24 +1,23 @@
 # 🪝 Webhook Logger with MongoDBThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+> A **100% free** webhook endpoint service with beautiful web dashboard. Receive webhooks from any service and view them in real-time!
+
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-Free%20Tier-green?logo=mongodb)](https://www.mongodb.com/cloud/atlas) [![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)](https://vercel.com) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
-> A **100% free** webhook endpoint service with beautiful web dashboard. Receive webhooks from any service and view them in real-time!## Getting Started
+## Getting Started
 
+First, run the development server:
 
+```bash
+npm run dev
+```
+or
+```bash
+yarn dev
+```
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)First, run the development server:
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-Free%20Tier-green?logo=mongodb)](https://www.mongodb.com/cloud/atlas)
-
-[![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)](https://vercel.com)```bash
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)npm run dev
-
-# or
-
-## ✨ Featuresyarn dev
-
-# or
+## ✨ Features
 
 - 🔗 **Webhook Endpoint**: Receive POST/GET requests from any servicepnpm dev
 
