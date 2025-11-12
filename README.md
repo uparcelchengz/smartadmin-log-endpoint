@@ -41,6 +41,10 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## 📸 Screenshot
 
+<img width="1632" height="684" alt="image" src="https://github.com/user-attachments/assets/8e7b4854-d985-497b-8f29-e4d7c605471d" />
+<img width="1485" height="841" alt="image" src="https://github.com/user-attachments/assets/a201cc71-5498-4704-878c-770431e79339" />
+<img width="1919" height="678" alt="image" src="https://github.com/user-attachments/assets/d0a8463e-1511-4747-9a66-7d993525c93c" />
+
 ## Learn More
 
 Your dashboard will look like this:
