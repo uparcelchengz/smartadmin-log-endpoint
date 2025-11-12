@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Webhook Logger Dashboard",
+  title: "SmartAdmin Webhook Logger Dashboard",
   description: "Free webhook endpoint with MongoDB logging and real-time dashboard",
 };
 
